@@ -1,0 +1,12 @@
+# Wiznmp v0.1 for CentOS/RHEL etc."
+# Author: lostsnow (lostsnow@gmail.com)"
+
+What is Wiznmp?
+============================================================
+A tool to auto-compile & install Nginx+MySQL+PHP on Linux
+For more information please visit http://www.lsproc.com/blog/
+
+Features
+============================================================
+* generate configuration files
+* support for CentOS/RHEL 4/5 i386/x86_64
